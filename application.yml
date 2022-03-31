@@ -17,7 +17,7 @@ proxy:
     groups: mathematicians
   specs:
   - id: 01_hello
-    display-name: Hello Application
+    display-name: Hel Application
     description: Application which demonstrates the basics of a Shiny app
     container-cmd: ["R", "-e", "shinyproxy::run_01_hello()"]
     container-image: openanalytics/shinyproxy-demo
