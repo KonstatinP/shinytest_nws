@@ -1,5 +1,5 @@
 proxy:
-  title: Open Analytics Shiny Proxy
+  title: Open Analyny Proxy
   logo-url: https://www.openanalytics.eu/shinyproxy/logo.png
   landing-page: /
   heartbeat-rate: 10000
